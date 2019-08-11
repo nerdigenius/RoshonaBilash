@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Roshona Bilash</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="drawer_open">Open</string>
+
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">main</string>
+
+    <string name="nav_item_setting">setting</string>
+
+    <string name="nav_item_exit">exit</string>
+
+    <!-- navigation drawer item labels -->
+    <string-array name="nav_drawer_labels">
+
+        <item>@string/nav_item_home</item>
+
+        <item>@string/nav_item_setting</item>
+
+        <item>@string/nav_item_exit</item>
+
+    </string-array>
+</resources>
